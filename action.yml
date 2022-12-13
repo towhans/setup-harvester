@@ -1,0 +1,5 @@
+name: 'Setup Harvester'
+description: 'Add lineage harvester to path'
+runs:
+  using: 'node16'
+  main: 'index.js'
